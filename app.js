@@ -18,3 +18,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
 module.exports = app;
+
+
+// run nodemon
+// Localhost:3000
